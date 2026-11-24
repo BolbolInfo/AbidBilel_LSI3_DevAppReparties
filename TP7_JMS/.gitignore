@@ -1,0 +1,13 @@
+*.class
+target/
+bin/
+out/
+activemq-data/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+.DS_Store
+Thumbs.db
