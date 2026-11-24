@@ -1,0 +1,14 @@
+*.class
+*.jar
+bin/
+out/
+target/
+activemq-data/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+.DS_Store
+Thumbs.db
